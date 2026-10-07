@@ -2,13 +2,18 @@
 
 **Junior Frontend Developer — React-focused**
 
-I build responsive web interfaces with React and JavaScript. My public projects focus on practical frontend evidence: API integration, client-side routing, state management, authentication flows, reusable hooks/components, local persistence, forms, and responsive UI.
+I build responsive web interfaces with React and JavaScript. I have hands-on professional frontend experience contributing to a private salon-owner web product in a team, implementing assigned responsive Arabic RTL interfaces from Figma with React and MUI.
 
-I also have hands-on professional frontend experience contributing to a private salon-owner web product in a team, implementing assigned responsive Arabic RTL interfaces from Figma with React and MUI.
+My public projects focus on practical frontend evidence: REST API integration, client-side routing, state management, authentication flows, reusable hooks/components, local persistence, validated forms, responsive UI, and automated CI checks.
 
-## Core frontend stack
+## Skills
 
-React 18 · JavaScript · HTML5 · CSS3 · React Router · Redux Toolkit · Context API · MUI · REST APIs · Axios/Fetch · Firebase Authentication · Git/GitHub
+- **Frontend:** React 18, JavaScript, HTML5, CSS3, Responsive Design
+- **React ecosystem:** React Router, Redux Toolkit, Context API, React Hooks, custom hooks
+- **UI & implementation:** MUI, Flexbox, CSS Grid, Figma Inspect, Arabic RTL interfaces
+- **Data & authentication:** REST APIs, Axios, Fetch, Firebase Authentication, localStorage
+- **Forms & validation:** React Hook Form, Yup
+- **Workflow & quality:** Git, GitHub, GitHub Actions, GitHub Pages, Chrome-based functional/responsive validation
 
 ## Selected projects
 
@@ -25,7 +30,7 @@ React + Redux Toolkit + MUI frontend demo using public product/authentication AP
 ### [BookStore](https://github.com/jana-alhasan/BookStore)
 React book-exploration app using the Google Books API, with debounced URL-driven search, dynamic book details, reusable favorites logic, localStorage persistence, responsive MUI components, and loading/error/empty states.
 
-The repository is public and inspectable; a live demo link will be added after GitHub Pages is enabled for this repository.
+**Live demo:** https://jana-alhasan.github.io/BookStore/
 
 ## Education & research
 
