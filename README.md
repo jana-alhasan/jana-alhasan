@@ -1,29 +1,40 @@
-### Hi, I'm Jana 👋
+# Hi, I'm Jana
 
-Frontend Developer (React.js) with hands-on experience building responsive,
-user-friendly web interfaces. My work combines practical development with
-academic research — I authored a paper published in **IEEE Xplore**,
-presented at the 3ICT 2022 International Conference in Bahrain.
+**Junior Frontend Developer — React-focused**
 
-Currently looking for **remote Junior/Entry-level Frontend Developer**
-opportunities in Europe and the Gulf region.
+I build responsive web interfaces with React and JavaScript. My public projects focus on practical frontend evidence: API integration, client-side routing, state management, authentication flows, reusable hooks/components, local persistence, forms, and responsive UI.
 
----
+I also have hands-on professional frontend experience contributing to a private salon-owner web product in a team, implementing assigned responsive Arabic RTL interfaces from Figma with React and MUI.
 
-🔭 **Currently working with:** React.js, JavaScript (ES6+), HTML5, CSS3
-📚 **Also familiar with:** SQL & Databases, Python, Security Fundamentals
-🎓 **Research:** [Automating Arabic Tags Creation for Annotating Web Contents](https://ieeexplore.ieee.org/document/9990699) — IEEE, 2022
-🌍 **Open to:** Remote Frontend roles (Europe / Gulf)
-📫 **Reach me:** jannahasan@hotmail.com | [LinkedIn](https://www.linkedin.com/in/jana-hasan/)
+## Core frontend stack
 
----
+React 18 · JavaScript · HTML5 · CSS3 · React Router · Redux Toolkit · Context API · MUI · REST APIs · Axios/Fetch · Firebase Authentication · Git/GitHub
 
-### 🛠️ Tech Stack
+## Selected projects
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=20232a)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+### [Entertainment WebApp](https://github.com/jana-alhasan/entertainment-WebApp)
+My primary public React project. It integrates the TMDB REST API and includes movie/TV discovery, debounced search, pagination, detail pages, trailers, bookmarks with localStorage, light/dark theme persistence, custom hooks, and Firebase email/password authentication with email verification.
+
+**Live demo:** https://jana-alhasan.github.io/entertainment-WebApp/
+
+### [E-Commerce Frontend](https://github.com/jana-alhasan/e-commerce)
+React + Redux Toolkit + MUI frontend demo using public product/authentication APIs. It demonstrates catalog filtering and pagination, product details, demo login, a local persisted cart, and checkout form validation. It does not create real orders or payments.
+
+**Live demo:** https://jana-alhasan.github.io/e-commerce/
+
+### [BookStore](https://github.com/jana-alhasan/BookStore)
+React book-exploration app using the Google Books API, with debounced URL-driven search, dynamic book details, reusable favorites logic, localStorage persistence, responsive MUI components, and loading/error/empty states.
+
+**Live demo:** https://jana-alhasan.github.io/BookStore/
+
+## Education & research
+
+BSc in Computer Science — An-Najah National University, 2022.
+
+Co-author of the IEEE paper [Automating Arabic Tags Creation for Annotating Web Contents](https://ieeexplore.ieee.org/document/9990699), published in 2022.
+
+## Opportunities
+
+Open to **Junior / Entry-Level Frontend Developer or Frontend Engineer** opportunities, including remote roles globally.
+
+[LinkedIn](https://www.linkedin.com/in/jana-hasan/) · jannahasan@hotmail.com
