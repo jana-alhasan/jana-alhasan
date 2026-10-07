@@ -25,7 +25,7 @@ React + Redux Toolkit + MUI frontend demo using public product/authentication AP
 ### [BookStore](https://github.com/jana-alhasan/BookStore)
 React book-exploration app using the Google Books API, with debounced URL-driven search, dynamic book details, reusable favorites logic, localStorage persistence, responsive MUI components, and loading/error/empty states.
 
-**Live demo:** https://jana-alhasan.github.io/BookStore/
+The repository is public and inspectable; a live demo link will be added after GitHub Pages is enabled for this repository.
 
 ## Education & research
 
@@ -37,4 +37,4 @@ Co-author of the IEEE paper [Automating Arabic Tags Creation for Annotating Web 
 
 Open to **Junior / Entry-Level Frontend Developer or Frontend Engineer** opportunities, including remote roles globally.
 
-[LinkedIn](https://www.linkedin.com/in/jana-hasan/) · jannahasan@hotmail.com
+[Portfolio](https://jana-alhasan.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/jana-hasan/) · jannahasan@hotmail.com
